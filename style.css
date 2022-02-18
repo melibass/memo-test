@@ -3,4 +3,14 @@
     flex-wrap: wrap;
     width: 400px;
     height: 300px;
+    margin: auto;
   }
+
+
+* {
+  font-family: 'Press Start 2P', cursive;
+  box-sizing: border-box;
+}
+h3 {
+  text-align: center;
+}
